@@ -24,26 +24,26 @@ Aplicación web desarrollada con React.js que permite gestionar recetas de cocin
 ```
 frontend/
 ├── src/
-│   ├── components/        # Componentes reutilizables
-│   │   ├── Button.jsx     # Botón con variantes
-│   │   ├── Card.jsx       # Tarjeta de receta
-│   │   ├── InputText.jsx  # Input con validación
-│   │   ├── Titulo.jsx     # Títulos principales
-│   │   └── SubTitulo.jsx  # Subtítulos
-│   ├── hooks/             # Custom hooks
+│   ├── components/        
+│   │   ├── Button.jsx     
+│   │   ├── Card.jsx      
+│   │   ├── InputText.jsx  
+│   │   ├── Titulo.jsx    
+│   │   └── SubTitulo.jsx  
+│   ├── hooks/             
 │   │   └── recipes/
-│   │       ├── useFetchRecipes.jsx   # Obtener datos
-│   │       ├── useDataRecipes.jsx    # Manejo formularios
-│   │       └── useRecipeAction.jsx   # Acciones CRUD
-│   ├── pages/             # Páginas principales
-│   │   ├── Welcome.jsx    # Pantalla de bienvenida
-│   │   ├── Home.jsx       # Dashboard principal
-│   │   ├── Recipes.jsx    # Formulario de recetas
-│   │   └── PageNotFound.jsx # Error 404
+│   │       ├── useFetchRecipes.jsx   
+│   │       ├── useDataRecipes.jsx    
+│   │       └── useRecipeAction.jsx   
+│   ├── pages/             
+│   │   ├── Welcome.jsx    
+│   │   ├── Home.jsx       
+│   │   ├── Recipes.jsx    
+│   │   └── PageNotFound.jsx 
 │   └── utils/
-│       └── apiUrl.jsx     # URL de la API
-├── package.json           # Dependencias
-└── README.md             # Este archivo
+│       └── apiUrl.jsx    
+├── package.json           
+└── README.md             
 ```
 
 ## 🚀 Instalación y Ejecución
