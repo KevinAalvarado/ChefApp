@@ -122,3 +122,6 @@ frontend/
 2. **Dashboard:** Visualización de recetas en cards con contadores dinámicos
 3. **Crear/Editar:** Formulario organizado por secciones con validación
 4. **Gestión:** Botones de editar/eliminar en cada receta
+
+## 🎥 Video Demostración
+[https://drive.google.com/file/d/1NRmx5Lirbl7aMB42vikwfSTiJyVPvOU2/view?usp=sharing]
