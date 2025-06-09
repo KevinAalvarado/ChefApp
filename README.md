@@ -124,4 +124,5 @@ frontend/
 4. **Gestión:** Botones de editar/eliminar en cada receta
 
 ## 🎥 Video Demostración
-[https://drive.google.com/file/d/1NRmx5Lirbl7aMB42vikwfSTiJyVPvOU2/view?usp=sharing]
+
+▶️ [Ver demostración](https://drive.google.com/file/d/1NRmx5Lirbl7aMB42vikwfSTiJyVPvOU2/view?usp=sharing)
